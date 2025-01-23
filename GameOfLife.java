@@ -241,6 +241,7 @@ public class GameOfLife {
 		theFool.setBoard(fileName);
 		theFool.computeNextGeneration(numGen);
 		//System.out.println(theFool.findNeighbors(4,2));
+        //ehe
 	}
 
 }
